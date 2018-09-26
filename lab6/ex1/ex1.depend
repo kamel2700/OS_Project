@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537964366 source:d:\innopolis\bac 2\os\c\lab6\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<string.h>
+
