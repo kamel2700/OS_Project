@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538569436 source:d:\innopolis\bac 2\os\c\lab7\ex2\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+
