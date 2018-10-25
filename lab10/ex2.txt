@@ -1,0 +1,2 @@
+/home/kamel2700/OS_Project/lab10/_ex2.txt
+/home/kamel2700/OS_Project/lab10/file.txt
