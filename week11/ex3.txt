@@ -1,0 +1,1 @@
+In the first program, the word "hello" is written twice, and in the second program once as the character "\ n" clears the buffer
